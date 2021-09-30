@@ -2,7 +2,7 @@
 
 My name is Frank Tsai, I'm a software engineer and data enthusiast. I like learning new thing and technology.
 
-### 🔭 I am currently looking for new oppoutunity.
+### 🔭 I am currently looking for new opportunity.
 
 ## Techniques and Tools
 
