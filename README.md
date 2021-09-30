@@ -31,6 +31,9 @@ My name is Frank Tsai, I'm a software engineer and data enthusiast. I like learn
   <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kl23711579&layout=compact&hide_title=true&langs_count=6&hide=jupyter%20notebook&exclude_repo=MXN500_PST_2&bg_color=1,B8F9A2,95DFF3,C6B7F1" />
 </a>
 
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kl23711579&theme=buefy)](https://git.io/streak-stats)
 
 
 <!--
