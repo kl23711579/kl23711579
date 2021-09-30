@@ -41,6 +41,8 @@ My name is Frank Tsai, I'm a software engineer and data enthusiast. I like learn
 [<img align="left" width="400" alt="🦑" src="https://github.com/kl23711579/metrics/blob/main/metrics.plugin.music.playlist.svg">](https://github.com/kl23711579)
 
 
+![Profile views](https://gpvc.arturio.dev/kl23711579)
+
 <!--
 **kl23711579/kl23711579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
