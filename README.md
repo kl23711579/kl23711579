@@ -37,7 +37,8 @@ My name is Frank Tsai, I'm a software engineer and data enthusiast. I like learn
 
 ---
 
-![calendar](https://github.com/kl23711579/metrics/blob/main/github-metrics.svg)
+![calendar](https://github.com/kl23711579/metrics/blob/main/metrics.plugin.isoclander.svg)
+![music](https://github.com/kl23711579/metrics/blob/main/metrics.plugin.music.playlist.svg)
 
 
 <!--
