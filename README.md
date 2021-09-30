@@ -35,6 +35,10 @@ My name is Frank Tsai, I'm a software engineer and data enthusiast. I like learn
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kl23711579&theme=buefy)](https://git.io/streak-stats)
 
+---
+
+![calendar](https://github.com/kl23711579/metrics/blob/main/github-metrics.svg)
+
 
 <!--
 **kl23711579/kl23711579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
